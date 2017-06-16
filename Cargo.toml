@@ -1,5 +1,5 @@
 [package]
-name = "efm32pg"
+name = "silabs"
 version = "0.1.0"
 authors = ["Ryan Kurte <ryankurte@gmail.com>"]
 
