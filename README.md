@@ -4,13 +4,22 @@ A helper repository containing svd2rust generated processor support files for Si
 
 SVD files from [kiel.com](http://www.keil.com/dd2/).
 
+
 ## Status
 
-TODO
+[![GitHub tag](https://img.shields.io/github/tag/ryankurte/rust-silabs.svg)](https://github.com/ryankurte/rust-silabs)
+[![Build Status](https://travis-ci.org/ryankurte/rust-slabs.svg?branch=master)](https://travis-ci.org/ryankurte/rust-slabs)
+[![Documentation](https://docs.rs/silabs/badge.svg))](https://docs.rs/silabs/badge.svg))
+
 
 ## Usage
 
 TODO
+
+
+## Licensing
+
+Rust components are MIT licensed. SVD files are Kiel/ARM licensed.
 
 
 ---
