@@ -4,14 +4,17 @@ A helper repository containing svd2rust generated processor support files for Si
 
 SVD files from [kiel.com](http://www.keil.com/dd2/).
 
-## Dependencies
+## Status
 
-- rust nightly
-- xargo
-- svd2rust
-- rustfmt
+TODO
 
 ## Usage
 
+TODO
+
+
+---
+
+If you have any questions, comments, or suggestions, feel free to open an issue or a pull request.
 
 
