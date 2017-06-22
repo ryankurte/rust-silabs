@@ -4,6 +4,10 @@ A helper repository containing svd2rust generated processor support files for Si
 
 SVD files from [kiel.com](http://www.keil.com/dd2/).
 
+The plan is that [src/hal](src/hal) will contain a generic HAL for silabs devices (based on [emlib](https://github.com/ryankurte/efm32-base/tree/master/emlib), and [src/devices] will contain the device specific files generated from SVDs.
+
+That said, I am not totally sure how to achieve it at the moment.
+
 
 ## Status
 
@@ -20,7 +24,6 @@ TODO
 ## Licensing
 
 Rust components are MIT licensed. SVD files are Kiel/ARM licensed.
-
 
 ---
 
