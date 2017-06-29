@@ -9,4 +9,5 @@ authors = ["Ryan Kurte <ryankurte@gmail.com>"]
 cortex-m = "0.2.10"
 rustfmt = "0.9.0"
 svd2rust = "0.10.0"
+vcell = "0.1.0"
 
